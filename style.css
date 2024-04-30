@@ -28,19 +28,16 @@ a{
     height: 100px;
 }
 
-@media screen and (min-width:200px){
+@media screen and (min-width:280px)and(max-width:767px){
     #program{
-        font-size: 20px;
-       padding-left: 1px;
-       flex-wrap: wrap;
+    font-size: 0px;
+    padding-left: 1px;
+      
     }
     .homepage{
       flex-wrap: wrap;
     }
-    #mentor{
-        width: 285px;
-        height: 405px;
-    }
+  
     .brief{
         font-size: 20px;
         margin-top: 10px;
