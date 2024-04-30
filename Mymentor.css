@@ -1,0 +1,51 @@
+.input {
+  width: 600px;
+  padding: 20px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 3px solid #ccc;
+  border-radius: 30px;
+  box-sizing: border-box;
+  border-color: palevioletred;
+}
+.achieve {
+  margin-left: 70px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.navbar {
+
+display: flex;
+background-color: palevioletred;
+color: white;
+justify-content: space-around;
+padding: 40px 40px;
+font-size: 20px;
+}
+
+#profile {
+  height: 400px;
+  width: 400px;
+}
+.mentor {
+  padding-left: 500px;
+  display: flex;
+ gap: 200px;
+ /* padding-bottom: 50px; */
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.statement{
+  padding-top: 30px;
+  font-size: 35px;
+}
+#logo{
+  width: 100px;
+  height: 100px;
+}
+#head{
+  font-size: 50px;
+  padding-left: 800px;
+}

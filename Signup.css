@@ -1,0 +1,101 @@
+.SingUp{
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+button{
+    background-color: palevioletred;
+    border: 1px solid palevioletred;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+  .input {
+    width: 600px;
+    padding: 20px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; 
+   
+   
+   
+    
+  }
+  .signup{
+    margin-left: 680px;
+    border: 3px solid palevioletred;
+    width: 700px;
+    padding-right: 30px;
+    
+     
+  }
+  .input {
+    width: 600px;
+    padding: 20px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 3px solid #ccc;
+    border-radius: 30px;
+    box-sizing: border-box;
+    border-color: palevioletred;
+  }
+
+  @media screen and(min-width:200px){
+   
+  .SingUp{
+    /* margin-left: 70px; */
+    /* margin-top: 30px; */
+    /* margin-bottom: 30px; */
+}
+button{
+    background-color: palevioletred;
+    border: 1px solid palevioletred;
+    border-radius: 4px;
+    /* box-sizing: border-box; */
+    /* width: 100px; */
+    /* padding-top: 10px; */
+    /* padding-bottom: 10px; */
+}
+
+  .input {
+    /* width: 600px; */
+    /* padding: 20px 20px; */
+    /* margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;  */
+   
+   
+   
+    
+  }
+  .signup{
+    margin-left: 680px;
+    border: 3px solid palevioletred;
+    width: 700px;
+    padding-right: 30px;
+    
+     
+  }
+  .input {
+    width: 00px;
+    padding: 0px 0px;
+    margin: px 0;
+    display: inline-block;
+    border: 3px solid #ccc;
+    border-radius: 30px;
+    box-sizing: border-box;
+    border-color: palevioletred;
+  }
+
+  
+}
+
+ 
+  

@@ -1,0 +1,40 @@
+
+
+
+    .input {
+        width: 600px;
+        padding: 20px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 3px solid #ccc;
+        border-radius: 30px;
+        box-sizing: border-box; 
+        border-color: palevioletred;
+        
+       
+    }
+    .achieve{
+        margin-left: 550px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        
+    }
+    .navbar{
+        display: flex;
+        justify-content: space-around;
+        background-color: palevioletred;
+        padding-bottom: 250px;
+        padding: 40px 40px;
+        font-size: 20px;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    }
+    #logo{
+        width: 100px;
+        height: 100px;
+    }
+    
+    
+    
