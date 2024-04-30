@@ -30,13 +30,15 @@ a{
 }
 #trevor{
     width: 300px;
-    padding-left: 400px;
+    padding-left: 700px;
 }
 #trevors{
 font-size: 20px;
+padding-left: 280px;
 }
 #head{
     padding-left: 300px;
+    font-size: 50px;
 }
 #logo{
     width: 100px;

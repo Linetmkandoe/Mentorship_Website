@@ -35,6 +35,12 @@
         width: 100px;
         height: 100px;
     }
+    button{
+       padding: 20px 30px;
+       border-radius: 70px;
+       border-color: palevioletred;
+
+    }
     
     
     
