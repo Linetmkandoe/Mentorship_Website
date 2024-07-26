@@ -1,5 +1,5 @@
 .SingUp{
-    margin-left: 70px;
+    margin-left: 30px;
     margin-top: 30px;
     margin-bottom: 30px;
 }
@@ -27,7 +27,7 @@ button{
     
   }
   .signup{
-    margin-left: 680px;
+    margin-left: 400px;
     border: 3px solid palevioletred;
     width: 700px;
     padding-right: 30px;
@@ -45,54 +45,45 @@ button{
     border-color: palevioletred;
   }
 
-  @media screen and(min-width:200px){
-   
-  .SingUp{
-    /* margin-left: 70px; */
-    /* margin-top: 30px; */
-    /* margin-bottom: 30px; */
-}
-button{
-    background-color: palevioletred;
-    border: 1px solid palevioletred;
-    border-radius: 4px;
-    /* box-sizing: border-box; */
-    /* width: 100px; */
-    /* padding-top: 10px; */
-    /* padding-bottom: 10px; */
-}
-
-  .input {
-    /* width: 600px; */
-    /* padding: 20px 20px; */
-    /* margin: 8px 0;
-    display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;  */
-   
-   
-   
-    
+  @media  only screen  and(min-width:200px) and (max-width:400px){
+    .SingUp{
+      margin-left: 50px;
+      margin-top: 0px;
+      margin-bottom: 0px;
   }
-  .signup{
-    margin-left: 680px;
-    border: 3px solid palevioletred;
-    width: 700px;
-    padding-right: 30px;
-    
+  button{
+      background-color: palevioletred;
+      border: 1px solid palevioletred;
+      border-radius: 4px;
+      box-sizing: border-box;
+      width: 50px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+  
+    .input {
+      width: 100px;
+      padding: 20px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box; 
      
-  }
-  .input {
-    width: 00px;
-    padding: 0px 0px;
-    margin: px 0;
-    display: inline-block;
-    border: 3px solid #ccc;
-    border-radius: 30px;
-    box-sizing: border-box;
-    border-color: palevioletred;
-  }
+     
+     
+      
+    }
+    .signup{
+      margin-left: 0px;
+      border: 3px solid palevioletred;
+      width: 100px;
+      padding-right: 30px;
+      
+       
+    }
+   
+  
 
   
 }

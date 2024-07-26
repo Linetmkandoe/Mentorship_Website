@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../Mentorship-Program/images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Mentorship_Website",
+    "liveServer.settings.port": 5501
+  }
+}

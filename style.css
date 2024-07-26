@@ -28,9 +28,9 @@ a{
     height: 100px;
 }
 
-@media screen and (min-width:280px)and(max-width:767px){
+@media screen and (min-width:280px){
     #program{
-    font-size: 0px;
+    font-size: 20px;
     padding-left: 1px;
       
     }
@@ -45,6 +45,113 @@ a{
         padding-top: 30px;
         
     }
+    #mentor{
+        width: 250px;
+        height: 315px;
+    }
+
+}
+@media screen and (min-width:375px){
+    #program{
+        font-size: 20px;
+        padding-left: 1px;
+          
+        }
+        .homepage{
+          flex-wrap: wrap;
+        }
+      
+        .brief{
+            font-size: 20px;
+            margin-top: 10px;
+            margin-right: 0px;
+            padding-top: 30px;
+            
+        }
+        #mentor{
+            width: 250px;
+            height: 315px;
+        }
+       
+
+}
+  
+       
+@media screen and (min-width:912px){
+    #program{
+        font-size: 40px;
+        padding-left: 1px;
+          
+        }
+        .homepage{
+          flex-wrap: wrap;
+        }
+      
+        .brief{
+            font-size: 90px;
+            margin-top: 10px;
+            margin-right: 0px;
+            padding-top: 30px;
+            
+        }
+        #mentor{
+            width: 750px;
+            height: 615px;
+            padding-right: 10px;
+        }
+       
+
+}
+@media screen and (min-width:820px){
+    #program{
+        font-size: 40px;
+        padding-left: 1px;
+          
+        }
+        .homepage{
+          flex-wrap: wrap;
+        }
+      
+        .brief{
+            font-size: 70px;
+            margin-top: 10px;
+            margin-right: 0px;
+            padding-top: 30px;
+            
+        }
+        #mentor{
+            width: 650px;
+            height: 615px;
+            padding-right: 10px;
+        }
+       
+
+}
+  
+@media screen and (min-width:768px){
+    #program{
+        font-size: 40px;
+        padding-left: 1px;
+          
+        }
+        .homepage{
+          flex-wrap: wrap;
+        }
+      
+        .brief{
+            font-size: 60px;
+            margin-top: 10px;
+            margin-right: 0px;
+            padding-top: 30px;
+            
+        }
+        #mentor{
+            width: 650px;
+            height: 615px;
+            padding-right: 10px;
+        }
+       
+
 }
   
        
